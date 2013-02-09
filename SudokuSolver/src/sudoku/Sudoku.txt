@@ -1,0 +1,4 @@
+<html>
+<applet code = "SudokuApplet.class" width = "300" height = "1500">
+</applet>                                                        
+</html>
